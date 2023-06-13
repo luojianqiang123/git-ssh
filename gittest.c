@@ -8,3 +8,11 @@ int main()
 	printf("The num = %d\n",a + b);
 }
 
+
+
+
+
+
+
+
+
